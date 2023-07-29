@@ -1,7 +1,8 @@
 # Find Your Book
-Projeto desenvolvido para a disciplina Desenvolvimento de Software e Sistemas Móveis, na instituição ISEP
+<p align="justify"> Projeto desenvolvido em React Native para a disciplina Desenvolvimento de Software e Sistemas Móveis, na instituição ISEP, o principal objetivo do projeto foi a integração de um aplicativo movel com uma API. </p>
 
-O aplicativo possui duas possibilidades de uso, podendo ser usado como usuario comum, ou seja, aquele que busca uma biblioteca proxima a ele para pegar um livro de seu interesse, reailiza avaliações dos livros e vê avaliações de outras pessoas, ou como Bibliotecario, nesse caso, as funcionalidades são para que a biblioteca cadastre livros, tenha controle das pessoas que estao com o livro alugado e cadastre as informações da biblioteca.
+<p align="justify"> O aplicativo possui duas possibilidades de uso, podendo ser usado como usuario comum, ou seja, aquele que busca uma biblioteca proxima a ele para pegar um livro de seu interesse, reailiza avaliações dos livros e vê avaliações de outras pessoas, ou como Bibliotecario, nesse caso, as funcionalidades são para que a biblioteca cadastre livros, tenha controle das pessoas que estao com o livro alugado e cadastre as informações da biblioteca. </p>
+
 
 ## Tela Inicial
 <img src="https://github.com/giovannaFantacini/AppLibrary/assets/74154716/1a5c2098-f56a-46a1-8390-4b03ab60ffce" alt="drawing" width="200"/>
