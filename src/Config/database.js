@@ -1,5 +1,5 @@
 
-const apiToken =  "3f72c53d67b55d1a7c1199d81187b8";
+const apiToken =  "";
 
 async function FetchAllLibraries() {
   
